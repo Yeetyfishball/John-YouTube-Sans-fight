@@ -1,58 +1,47 @@
-0,heartteleport,320,304,,,,,,
-0,heartmode,1,,,,,,,
+0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartTeleport,320,376,,,,,,
+0,HeartMode,1,,,,,,,
+0,SansText,well well well,,,,,,,
+0,SansText,if it isnt nenjamin           betanyahu,,,,,,
+0,SansTorso,Default,,
+0,SansAnimation,Idle,,
+0,HeartTeleport,315,304,,,,,,
+0,Sound,Ding,,
+0,SansHead,LookLeft,,,
+0,SansText,uhhhhh,,,,,,
+0,SansText,i was going to say          something,,,,,,
+0,SansText,but i forgot.,,,,,
+0,SansHead,default,,,,,,
 0,CombatZoneResize,133,251,508,391,,,,
-0,HeartMaxFallSpeed,700,,,,,,,
-0,sanshead,noeyes,,,,,,,
-0,sanshead,Default,,,,,,,
-0,SansAnimation,Idle,,,,,,
-0,SansText,uhhhh,,,,,
-0,SansText,im too lazy,,,,,
-0,SansText,yo do you like trucks,,,,,
-0,SansText,monster trucks,,,,,,
-0,SansText,GUESS WHAT,,,,
-3,SansText,come on guess,,,,
-2.5,SansText,i asked u a question,,,,,
-1.5,SansHead,LookLeft,,,,,,
-2.2,SansText,dude why are you even           doing this?,,,,,,
-0.2,SansHead,default,,,,,
-0.8,SansText,premium aint that bad,,,,,
-0,SansText,sure its $16,,,,,,
-0.3,SansText,and sometimes i sprinkle        some ads in,,,,,,
-0.5,SansText,but our ai moderation,,,,,,
-0.2,SansText,its cool right,,,,,
-0.8,SansHead,blueeye,,,,,
-0,SansText,wdym no??,,,,,
-0,SansText,i thought u were a silent         protagonist??,,,,,
-0.3,SansText,alright bruh,,,,,,
-0.2,SansText,im gonna call big yahu,,,,,,
-0,SansHead,LookLeft,,,,,
-0.3,SansText,WDYM you know him,,,,,,
-0.7,hes your cousin??,,,,,,
-0,SansHead,noeyes,,,,,
-0.2,SansText,thats it im touching,,,,,,
-0.4,SansText,YOU CALLED BIBI TO          TOUCH ME??,,,,,,
-0.3,SansHead,default,,,,,
-0,SansText,ok heres the deal,,,,,,
-0.2,SansText,ill give you $3 million,,,,,,
-0.4,SansText,in return i get my best friend          back okay?,,,,,,
-0.3,SansText,NO?????,,,,,
-0.2,SansText,then ill just kill you.,,,,,
-0,SansText,first tumblr,,,,,,
-0,SansText,now nenjamin betanyahu,,,,,,
-0,SansText,he promised me that         tumblr award 3000 years             ago,,,,,,
-0.2,SansText,...,,,,
-0.6,SansText,looks like we have to go,,,,,,
-0.3,SansText,HEAD TO HEAD.,,,,,,
-0.2,SansText,HAHAHAHAHAHA,,,,
-0,SansHead,default,,,,,
-0,sound,warning,,,
-0,sound,slam,,,,
-0,SansSlam,1,,,,
-0,SansText,...,,,,
-1.2,SansText,wait why are we having          quality time?,,,,,
-0.3,SansText,well it looks like,,,,,
-0.1,SansHead,lookleft,,,,,,
-0,SansText,Freedom's just a penumbra       phantasm for big shots          the world revolving,,,,,,
-0.2,SansText,no i dont goon to pirate        gaster what??,,,,,,
-0.1,SansText,im only loyal to bibi,,,,,,
-0,EndAttack,,,,,,,,
+0.5,BoneVRepeat,128,366,20,0,120,8,76
+0,BoneVRepeat,513,257,107,2,120,8,76
+0.4,GasterBlaster,1,640,480,449,366,180,2.4,0.9
+0.2,GasterBlaster,1,640,480,379,446,270,2.2,0.2
+3.9,GasterBlaster,1,0,0,189,176,45,1.3,0.8
+7.2,Platform,15,346,61,0,120,,
+0,sound,ding,,
+0,sound,warning,,
+0,sound,heartsplit,,
+0,SansSlam,1,,
+0,BoneStab,1,35,0.3,7.5,,
+0.9,PlatformRepeat,552,346,51,2,120,8,140,
+0.2,GasterBlaster,1,640,480,379,446,270,2.2,0.2
+1.9,GasterBlaster,1,0,0,189,176,45,1.3,0.8
+0.4,GasterBlaster,1,640,480,449,366,180,2.4,0.9
+0.2,GasterBlaster,1,640,480,379,446,270,2.2,0.2
+3.9,GasterBlaster,1,0,0,189,176,45,1.3,0.8
+0.8,GasterBlaster,1,640,0,449,176,135,0.5,0.2
+0.3,GasterBlaster,1,640,480,449,436,225,0.2,0.2
+0.9,GasterBlaster,1,0,480,189,436,315,0.1,0.2
+1.9,GasterBlaster,1,0,0,189,246,0,0.3,0.7
+0.7,GasterBlaster,1,0,0,259,166,90,0.3,0.8
+0.1,GasterBlaster,1,640,480,449,366,180,0.3,0.9
+1.9,GasterBlaster,1,0,0,189,176,45,1.3,0.8
+0.8,GasterBlaster,1,640,0,449,176,135,0.5,0.2
+0.3,GasterBlaster,1,640,480,449,436,225,0.2,0.2
+0.9,GasterBlaster,1,0,480,189,436,315,0.1,0.2
+1.9,GasterBlaster,1,0,0,189,246,0,0.3,0.7
+0.7,GasterBlaster,1,0,0,259,166,90,0.3,0.8
+0.1,GasterBlaster,1,640,480,449,366,180,0.3,0.9
+0.2,GasterBlaster,1,640,480,379,446,270,0.9,0.3
+6.5,EndAttack,,
