@@ -90,6 +90,7 @@
 0,HeartMode,0,,
 0,SansText,uhhh spam incoming,,
 0,SansHead,LookLeft,,
+0.2,SansText,die time.,,,,,
 0,SansAnimation,default,,
 0.15,GasterBlaster,1,0,0,600,200,155,2.75,0.4
 0.3,GasterBlaster,1,999,999,600,350,185,2.7,0.4
