@@ -81,11 +81,6 @@
 0.2,gasterblaster,1,250,0,250,200,90,0.2,0.9
 0.2,gasterblaster,1,410,0,410,200,90,0.2,0.5
 0.2,gasterblaster,1,490,0,490,200,90,0.2,0.5
-0.2,gasterblaster,1,640,270,550,270,180,0.2,0.5
-0,gasterblaster,1,640,370,550,370,180,0.2,0.5
-0.7,gasterblaster,1,640,320,550,320,180,0.2,0.5
-1,gasterblaster,2,320,0,320,200,90,0.5,1
-0.2,gasterblaster,1,640,270,550,270,180,0.2,0.5
 0,gasterblaster,1,0,370,120,370,0,0.2,0.5
 1.5,sansslam,1
 0,sansbody,handdown
@@ -114,10 +109,15 @@
 0,SansHead,wink
 0,SansText,well...,,
 0,SansHead,Default
+10,SansText,why do you want to           PROCEED with this?,,,,,
+0,SansText,heh.,,,
+0,SansText,do the both of them          know how to tread water?,,,,,,
+0,SansText,are they just stupid?,,,,,,
+0,SansText,...,,,
 5,SansHead,Tired1
 5,SansHead,Tired2
 5,SansHead,ClosedEyes
-0,SansText,im going to twerk.,,,
+5,SansText,im going to twerk.,,,
 0,SansText,in the mirror.,,,
 0,SansText,with a saltshaker.,,,
 20,SansText,you know what?,,,
@@ -128,8 +128,8 @@
 0,SansText,here's your phase 2!,,,
 0,SansText,also just in case you have         low HP...,,,,,,,
 0.2,SansBody,shrug,,,,,
-0.2,gasterblaster,1,250,0,250,200,90,5.2,0.9
-0.2,gasterblaster,1,410,0,410,200,90,5.2,0.9
+0.2,gasterblaster,1,250,0,250,200,45,5.2,0.9
+0.2,gasterblaster,1,410,0,410,200,135,5.2,0.9
 0,SansText,kaboom,,,,,,
 0,CombatZoneResize,133,251,508,391,TLResume,,
 0,HeartTeleport,320,376,,,,,
@@ -139,5 +139,7 @@
 0,BoneVRepeat,128,366,20,0,180,8,120
 0,BoneVRepeat,503,257,95,2,180,8,120
 0,BoneVRepeat,503,366,20,2,180,8,120
-
-2.2,EndAttack,,,,,
+8.2,SansText,remember.,,,,,,
+0,SansText,if u give me that           Seamsung Washing Machine,,,,,,
+0,SansText,i will forgive you.,,,,,,
+8.2,EndAttack,,,,,
